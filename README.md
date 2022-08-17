@@ -1,4 +1,13 @@
-### Hi there 👋
+## Java Backend Developer
+
+- Spring
+- Hibernate
+- Data JPA
+- SQL / noSQL ( MYSQL, MONGODB )
+
+
+There is also experience working with С#, Node.js
+
 
 <!--
 **Denis11333/Denis11333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
