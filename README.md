@@ -1,6 +1,6 @@
 ## Java Backend Developer
 
-###Certain knowledge
+### Certain knowledge
 
 - Spring
 - Hibernate
@@ -8,7 +8,7 @@
 - SQL / noSQL ( MYSQL, MONGODB )
 - Computer architecture
 
-###Little knowledge in
+### Little knowledge in
 
 - Junit, Mockito
 - patterns
