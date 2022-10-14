@@ -13,7 +13,7 @@
 - Junit, Mockito
 - patterns
 
-There is also experience working with С#, Node.js
+There is also experience working with С#, Node.js, Python
 
 
 
